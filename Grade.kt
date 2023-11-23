@@ -1,3 +1,4 @@
+//백준 9498 번 문제
 fun main() {
         var score = readLine()!!.toInt()
         when {
